@@ -1,4 +1,4 @@
-![Banner](/images/demetrabanner.png)
+![Banner](/images/demetraBanner.png)
 
 # Description
 The general objective of this project is the adaptation of existing technologies used in a precision agriculture (PA), into an indoor (greenhouse) prototype system which includes the use of both an unmanned ground and aerial vehicles (UGV and
