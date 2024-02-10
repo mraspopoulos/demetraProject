@@ -1,31 +1,37 @@
-![Banner](/images/Thesisbanner.png)
+![Banner](/images/demetrabanner.png)
 
 # Description
-THESIS vision is to demonstrate the ability and applicability of the millimetre-wave (mmWave) radio technology towards achieving high precision 3D positioning. mmWave technology is defining a new era in wireless communication by providing very wide bandwidths. It is currently being used in some Wi-Fi systems (e.g., IEEE802.11ad) and is planned to be used in 5G and beyond-5G communications in the near future as the it offers much more flexibility to use wider bandwidths and hence achieving much higher data rates and capacity. This very large availability of bandwidth, together with the use of massive phase array antennas that allow better time resolution and estimation of the signal phase could be used for achieving the desired high accuracy. Additionally, positioning research so far was mostly focused in 2D, however the 3D nature of these days’ smart applications is making the need for 3D positioning even more predominant. The project adopts a System Engineering approach to prove this concept/technology by developing prototypes and validating them experimentally in the lab.
-In this context the project aims to contribute towards the ongoing research efforts in this direction to achieve cm-level accuracy. The goal is to validate and assess the performance of the developed 3D positioning techniques and assess their performance against set KPIs as well as the applicability of mmWave for this purpose.
+The general objective of this project is the adaptation of existing technologies used in a precision agriculture (PA), into an indoor (greenhouse) prototype system which includes the use of both an unmanned ground and aerial vehicles (UGV and
+UAV). The term precision agriculture refers to the use of information technologies (IT) to help farmers manage the optimal growth of their crops thus ensuring profitability and sustainability. Furthermore, PA has also been known to help the
+environment by avoiding unnecessary spaying of pesticides as well as excessive use of water and fertilisers. The use of unmanned systems offers higher spatial resolution data compared to satellites. The real-time data of interest to the farmers
+and management tools/software includes soil properties such as moisture, compaction, salinity and nutrients (nitrogen (N), phosphorus (P) and potassium (K)), and crop monitoring which includes vegetation indexes such as Chlorophyll, Leaf Water,
+Ground Cover, Leaf Area, Normalised Difference Vegetation Index (NDVI), etc. UAVs have been used in PA for bird eye view, for insect identification using cameras and Lidars, and even actuators for autonomous spraying of pesticides, whereas the use
+of UGVs provides bottom-up capabilities identifying insects hiding under the leaves and for crop planting and harvesting. The innovation of this project is the UGV and UAV for indoor (greenhouse) PA applications where GPS signals are very weak or
+non-existent. In addition, this work will validate high-precision cm-level, 3D positioning techniques required for unmanned vehicle indoor localisation and navigation
 
 **Funding Body:** Cyprus Research and Innovation Foundation
 
-**Project ID:** CONCEPT/0722/0031
+**Project ID:** CONCEPT/0722/00100
 
-**Duration:**: 1st May 2023 - 31st January 2024 (9 months)
+**Duration:**: 1st April 2023 - 31st December 2023 (9 months)
 
-**Funding Received:** 39.952,74 Euros
+**Funding Received:** 39.902,56 Euros
 
 **Host Organization:** [Center of Interdisciplinary Science Promotion and Innovative Research Exploration (InSPIRE)](http://inspirecenter.org/)
 
 <img src="./images/Picture2.png" width="75" >
 
 
-**Coordinator:** - [Dr Marios Raspopoulos](https://www.uclancyprus.ac.cy/academic/dr-marios-raspopoulos/) 
+**Coordinator:** - [Dr Stelios Ioannou](https://www.uclancyprus.ac.cy/academic/dr-stelios-ioannou/)
 
-**Researchers:** - [Dr Stelios Ioannou](https://www.uclancyprus.ac.cy/academic/dr-stelios-ioannou/), [Mr Andrey Sesyuk](https://www.linkedin.com/in/asesyuk/)
+**Researchers:** - [Dr Marios Raspopoulos](https://www.uclancyprus.ac.cy/academic/dr-marios-raspopoulos/) , [Mr Andrey Sesyuk](https://www.linkedin.com/in/asesyuk/), Mr Demetris Kallasides
 
 # News
-#### (31 Jauary 2024)
+#### (31 December 2024)
 Project Ends
 
-#### (23 Jauary 2024)
+<!---
+##### (23 Jauary 2024)
 Paper titled 'Radar-based millimeter-Wave sensing for accurate 3D Indoor Positioning - Potentials and Challenges' gets accepted to the Journal on Indoor Seamless Positioning and Navigation
 
 #### (06 December 2023)
@@ -34,9 +40,10 @@ Paper titled 'Radar-based millimeter-Wave sensing for accurate 3D Indoor Positio
 #### (25 September 2023 - 28 September 2023)
 Project Team participates to the 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN) was organized by the Fraunhofer Institute for Integrated Circuits IIS with the support of researchers from the German Aerospace Center (DLR) and the Stuttgart University of Applied Sciences. 
 
-<img src="./images/Picture3.jpg" width="200" >  <img src="./images/Picture4.jpg" width="200" >  <img src="./images/Picture5.jpg" width="200" >  <img src="./images/Picture6.jpg" width="200" >
+<img src="./images/Picture3.jpg" width="200" >  <img src="./images/Picture4.jpg" width="200" >  <img src="./images/Picture5.jpg" width="200" >  <img src="./images/Picture6.jpg" width="200" >  
+--->
 
-#### (1st May 2023) 
+#### (1st April 2023) 
 Project Starts
 
 
