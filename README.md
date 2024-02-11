@@ -48,16 +48,20 @@ Project Starts
 
 
 # Videos
+
+<!---
 [![3D Drone Positioning using mmWave Sensing](https://img.youtube.com/vi/5V9xu1u4u2c/0.jpg)](https://www.youtube.com/watch?v=5V9xu1u4u2c)
+--->
 
 # Deliverables
+<!---
 - [Deliverable 3.1](/deliverables/THESIS_D3.1.pdf)
 - [Deliverable 3.2](/deliverables/THESIS_D3.2.pdf)
 - [Deliverable 4.1](/deliverables/THESIS_D4.1.pdf)
 - [Deliverable 4.2](/deliverables/THESIS_D4.2.pdf)
-
+--->
 
 # Publications
 
-- A. Sesyuk, S. Ioannou and M. Raspopoulos, "3D millimeter-Wave Indoor Localization," 2023 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN), Nuremberg, Germany, 2023, pp. 1-7, doi: [10.1109/IPIN57070.2023.10332537](https://ieeexplore.ieee.org/document/10332537).
-- A. Sesyuk, S. Ioannou and M. Raspopoulos, "Radar-based millimeter-Wave sensing for accurate 3D Indoor Positioning - Potentials and Challenges," in IEEE Journal of Indoor and Seamless Positioning and Navigation, doi: [10.1109/JISPIN.2024.3359151](https://ieeexplore.ieee.org/document/10415170).
+-J. Ye, S. Ioannou, P. Nikolaou and M. Raspopoulos, "CNN based Real-time Forest Fire Detection System for Low-power Embedded Devices," 2023 31st Mediterranean Conference on Control and Automation (MED), Limassol, Cyprus, 2023, pp. 137-143, doi: [10.1109/MED59994.2023.10185692](https://ieeexplore.ieee.org/document/10185692).
+
