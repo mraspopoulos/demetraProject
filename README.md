@@ -55,12 +55,11 @@ Project Starts
 --->
 
 # Deliverables
-<!---
-- [Deliverable 3.1](/deliverables/THESIS_D3.1.pdf)
-- [Deliverable 3.2](/deliverables/THESIS_D3.2.pdf)
-- [Deliverable 4.1](/deliverables/THESIS_D4.1.pdf)
-- [Deliverable 4.2](/deliverables/THESIS_D4.2.pdf)
---->
+
+- [Deliverable 3.1](/deliverables/DEMETRA_Deliverable31.pdf)
+- [Deliverable 3.2](/deliverables/DEMETRA_Deliverable32.pdf)
+- [Deliverable 4.1](/deliverables/DEMETRA_Deliverable41.pdf)
+
 
 # Publications
 
