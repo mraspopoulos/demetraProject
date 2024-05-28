@@ -1,5 +1,8 @@
 ![Banner](/images/demetraBanner.png)
 
+# Title
+3D Precision Farming using Internet of Things and Unmanned Aerial Vehicles in Greenhouses
+
 # Description
 The general objective of this project is the adaptation of existing technologies used in a precision agriculture (PA), into an indoor (greenhouse) prototype system which includes the use of both an unmanned ground and aerial vehicles (UGV and
 UAV). The term precision agriculture refers to the use of information technologies (IT) to help farmers manage the optimal growth of their crops thus ensuring profitability and sustainability. Furthermore, PA has also been known to help the
