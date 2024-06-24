@@ -25,7 +25,7 @@ non-existent. In addition, this work will validate high-precision cm-level, 3D p
 
 **Coordinator:** - [Dr Stelios Ioannou](https://www.uclancyprus.ac.cy/academic/dr-stelios-ioannou/)
 
-**Researchers:** - [Dr Marios Raspopoulos](https://www.uclancyprus.ac.cy/academic/dr-marios-raspopoulos/) , [Mr Andrey Sesyuk](https://www.linkedin.com/in/asesyuk/), Mr Demetris Kallasides
+**Researchers:** - [Dr Marios Raspopoulos](https://mraspopoulos.github.io/) , [Mr Andrey Sesyuk](https://www.linkedin.com/in/asesyuk/), Mr Demetris Kallasides
 
 
 # News
